@@ -13,6 +13,8 @@ curl -fsSL https://github.com/david53001/schoollink-releases/releases/latest/dow
 Then click the graduation cap in the menu bar, type a username and click **Join** (on the school Wi-Fi), and tell
 the owner that exact username; the owner turns it on.
 (Got an invite instead? Click **Use a Key**, paste it and click **Activate**.)
+Works in Safari, Chrome, Edge, Firefox, Brave, Arc, Dia, Opera, Vivaldi and the ChatGPT and Claude apps (installed in
+Applications), on the school Wi-Fi in school hours.
 
 ### If it says "Could not resolve host"
 
